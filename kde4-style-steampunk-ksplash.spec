@@ -1,7 +1,7 @@
 Summary:	"SteampunK Powered Linux" KSplash theme
 Name:		kde4-style-steampunk-ksplash
 Version:	3.0
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		Graphical desktop/KDE
 Url:		http://kde-look.org/content/show.php?content=142138

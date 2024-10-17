@@ -4,7 +4,7 @@ Version:	3.0
 Release:	2
 License:	GPLv2+
 Group:		Graphical desktop/KDE
-Url:		http://kde-look.org/content/show.php?content=142138
+Url:		https://kde-look.org/content/show.php?content=142138
 Source:		http://sites.google.com/site/binaryinspiration/download/SteampunK_KSplash3.tar.gz
 Requires:	kdebase4-workspace >= 4.10
 BuildRequires:	kde4-macros
